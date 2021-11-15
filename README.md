@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibtehaj95
+- 👋 Hi, I’m ibtehaj95
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently studying microelectronics
 - 💞️ I’m looking to collaborate on C/C++ and Python projects
