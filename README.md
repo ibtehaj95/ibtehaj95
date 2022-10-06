@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ibtehaj95
-- 👀 I’m interested in embedded systems
-- 🌱 I’m currently studying microelectronics
-- 💞️ I’m looking to collaborate on C/C++ and Python projects
-- 📫 Reach me at mohammedibtehaj.khan@hotmail.com
+- 👀 I’m becoming a Frontend Web Developer
+- 🌱 I’m currently studying Information and Communication Systems at TU Hamburg
+- 💞️ I’m looking to collaborate on Javascript projects
+- 📫 Reach me at mohammedibtehaj.khan@gmail.com
 
 <!---
 ibtehaj95/ibtehaj95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
