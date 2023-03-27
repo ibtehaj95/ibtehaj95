@@ -1,6 +1,7 @@
 - 👋 Hi, I’m ibtehaj95
 - 👀 I’m becoming a Frontend/Full Stack Web Developer
 - 🌱 I’m currently studying Information and Communication Systems at TU Hamburg
+- 💼 I’m currently working part-time as a Frontend Developer at Fraunhofer CML
 - 💞️ I’m looking to collaborate on Javascript projects
 - 📫 Connect with me at https://www.linkedin.com/in/muhammad-ibtehaj-khan/
 
