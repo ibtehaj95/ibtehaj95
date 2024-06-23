@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ibtehaj95
+- 👋 Hi, I’m Ib
 - 👀 I’m becoming a Full Stack Web Developer
 - 🌱 I’m currently studying Information and Communication Systems at TU Hamburg
 - 💼 I’m currently working part-time as a full-stack web developer at Fraunhofer CML
-- 💞️ I’m looking to collaborate on Javascript projects
+- 💞️ I’m looking to collaborate on PERN stack projects
 - 📫 Connect with me at https://www.linkedin.com/in/muhammad-ibtehaj-khan/
 
 <!---
