@@ -2,7 +2,7 @@
 - 👀 I’m a Full Stack Web Developer
 - 🌱 I study at TU Hamburg
 - 💼 I’m currently working at a public transportation company from Frankfurt
-- 💞️ I’m looking to collaborate on PERN stack projects
+- 💞️ I’m looking to collaborate on Java-/TypeScript and SpringBoot projects
 - 📫 Connect with me at https://www.linkedin.com/in/muhammad-ibtehaj-khan/
 
 <!---
